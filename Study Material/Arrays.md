@@ -30,7 +30,6 @@ Arrays are extremely common in coding interviews. Even if the question is about 
 
 ## 📚 Learning Resources
 **Readings:** [Array in Data Structure - Guru99](https://www.guru99.com/arrays-in-data-structure.html)  
-**Videos:** [Arrays - UC San Diego](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
 
 ---
 
